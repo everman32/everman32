@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Junior Javascript developer</h3>
+<h3 align="center">A Javascript developer</h3>
 
 - 🌱 I’m currently learning **React, JS/TS**
 
