@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Javascript developer</h3>
+<h3 align="center">NodeJS developer</h3>
 
-- 🌱 I’m currently learning **React, JS/TS**
+- 🌱 I’m currently learning **Javascript, Typescript, NodeJS, ReactJS**
 
 <p align="center">
   <a href="https://github.com/everman32">
